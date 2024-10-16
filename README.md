@@ -1,4 +1,4 @@
-# 🛍️ Laptop Scraper 🖥️
+# 🛍️ Laptop Data Scraper 🖥️ | Web Scraping with Python & BeautifulSoup
 
 This project is a web scraper built using Python, BeautifulSoup, and Pandas to extract information about laptops from the [LaptopsDirect](https://www.laptopsdirect.co.uk/ct/laptops-and-netbooks/laptops) website. It retrieves essential details such as the product name, price, link, and product details, and stores them in an Excel file.
 
