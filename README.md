@@ -20,7 +20,7 @@ This project is a web scraper built using Python, BeautifulSoup, and Pandas to e
 
 1. **Clone the Repository** 📁
    ```bash
-   git clone [https://github.com/your-username/laptop-scraper](https://github.com/sanjanachitragar/Web-Scraping).git
+   git clone https://github.com/sanjanachitragar/Web-Scraping.git
    ```
 
 2. **Install Required Packages** 📦
